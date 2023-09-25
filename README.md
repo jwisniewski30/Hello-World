@@ -1,4 +1,4 @@
-# hello-world
+# Hello-World
 ## Introduction
 - My name is Justin Wisniewski
 😄
